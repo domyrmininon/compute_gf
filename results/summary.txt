@@ -1,0 +1,8 @@
+C_2_affine: size of Garside family = 24
+C_3_affine: size of Garside family = 317
+G_2_affine: size of Garside family = 41
+B_3_affine: size of Garside family = 315
+A_4: size of Garside family = 120
+F_4: size of Garside family = 1152
+A_4_affine: size of Garside family = 1296
+A_3_affine: size of Garside family = 125

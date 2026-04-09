@@ -1,0 +1,1 @@
+["1", "c", "b", "a", "cb", "bc", "ab", "ba", "ac", "bcb", "cbc", "aba", "bac", "bab", "bcbc", "cbab", "abcb", "abab", "acbab", "abcbc", "babcbc", "bacbab", "cbabcbc", "abacbab"]
