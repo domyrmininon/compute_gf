@@ -1,0 +1,1 @@
+["dcdbcdabacdcbcdcabcdcb", "abcdcabacbacdcdbcabacb", "babacdcbcaba", "bcdabcdcbaba", "cdcbabdcbdcd", "cbadcbabdcdc", "dcabcdcabc", "babacdcbc", "cdcbabdcb", "dbcbabd", "abcdbca", "cbacd"]
